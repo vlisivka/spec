@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=Application
+Name=egui_pinger
+GenericName=Network Monitor
+Comment=Simple ping for multiple servers with graph and jitter
+Comment[uk]=Простий ping для багатьох серверів з графіком та тремтінням
+Exec=egui_pinger
+Icon=com.github.vlisivka.EguiPinger
+Terminal=false
+StartupWMClass=com.github.vlisivka.EguiPinger
+Categories=Network;System;Monitor;
+Keywords=ping;network;jitter;diagnostic;
